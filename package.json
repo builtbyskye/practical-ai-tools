@@ -1,0 +1,14 @@
+{
+  "name": "practical-ai-tools-directory",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Verification scripts for the Practical AI Tools Directory",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check:links": "node scripts/check-links.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
