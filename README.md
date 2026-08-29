@@ -9,6 +9,10 @@ The launch edition contains a deliberately small set of established tools review
 **Last source review:** 2026-08-27  
 **Maintained by:** [Built by Skye](https://github.com/builtbyskye)
 
+## Practical guides
+
+- [Local & Edge AI Starter Stack](guides/local-edge-ai-starter-stack.md) — choose among Ollama, llama.cpp, ONNX Runtime, ExecuTorch, and MLX, with a note on where MCP fits.
+
 ## Start with the outcome
 
 | I need to… | Start with | Consider instead when… |
