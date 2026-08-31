@@ -11,6 +11,7 @@ The launch edition contains a deliberately small set of established tools review
 
 ## Practical guides
 
+- [Before You Paste: An AI Data-Safety Checklist](guides/before-you-paste-ai-data-safety-checklist.md) — decide what data belongs in an AI workflow, sanitize risky inputs, and respond if sensitive material is exposed.
 - [Local & Edge AI Starter Stack](guides/local-edge-ai-starter-stack.md) — choose among Ollama, llama.cpp, ONNX Runtime, ExecuTorch, and MLX, with a note on where MCP fits.
 
 ## Start with the outcome
